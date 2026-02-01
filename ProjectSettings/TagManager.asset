@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Table
+  - Conveyor
+  - Galian_Tanah
+  - NPC
+  - NPC_Quiz
+  - NPC_Info
+  - Checkpoint
+  - Truck
+  - Product
+  - Brain
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - FloorSegar
+  - PlayerSegar
+  - GridInfactory
+  - ForkliftInfactory
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - XR Simulation
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: k
+    uniqueID: 3374807495
+    locked: 0

@@ -1,0 +1,292 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SplahScreenOpening.unity
+    guid: 078e03f3baeb0474b8f74b596d99b4f9
+  - enabled: 1
+    path: Assets/Scenes/Login.unity
+    guid: fb524430b12e7e6408be6a31afec4e18
+  - enabled: 1
+    path: Assets/Scenes/QRScanner.unity
+    guid: c0c78e885044391409aa0141e740dc65
+  - enabled: 0
+    path: Assets/Scenes/ForgotPassword.unity
+    guid: 57b487a4f57a4014887df84afaaa1d93
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 33fa1e3536564ee428ccecb2099c8f98
+  - enabled: 1
+    path: Assets/Scenes/SplashScreenBefore.unity
+    guid: 856e10b7296b76b4fbaffc3b3196cea7
+  - enabled: 1
+    path: Assets/Scenes/AfterChoiceTopic.unity
+    guid: 53d103a581bb87c4bbf8b1c3a09f90e0
+  - enabled: 1
+    path: Assets/AR_Batch1/ARScrum/Scenes/MainScrum.unity
+    guid: 2ba1fbb2af7cc8944a8b71b5aa140546
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAccount/ScenesAccount/MainAccountClassify.unity
+    guid: a03e2f553b440dc4682cd6a1e1820bf2
+  - enabled: 1
+    path: Assets/AR_Batch1/ARATM/Scenes/MainATM.unity
+    guid: 4016b1715b6e9674da46be3ac394a9f4
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAnthro/Kevin/Scene/MainAnthropometry.unity
+    guid: 84fc713929492084cb8ca4665a79c2e1
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAnthro/Kevin/Scene/AsianFemale.unity
+    guid: cc25b1d5840eaf9459c90bdcbf4502ef
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAnthro/Kevin/Scene/AsianMale.unity
+    guid: 6fb5bda05f2090c45ba73d0614506d90
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAnthro/Kevin/Scene/CaucasianFemale.unity
+    guid: 28e16ea552adc2248bf3a47af03682e3
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAnthro/Kevin/Scene/CaucasianMale.unity
+    guid: 0ad48bb0d6fa62b4cb2aa3b0c1554fee
+  - enabled: 1
+    path: Assets/AR_Batch1/ARFranchise/ScenesFranchise/MainFranchise.unity
+    guid: 9eba8eddc9de90c44abff5eb84d67a1a
+  - enabled: 1
+    path: Assets/AR_Batch1/ARFranchise/ScenesFranchise/CreditFranch.unity
+    guid: d668b0003e9bded4a8fdabe637f3eba9
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAccount/ScenesAccount/CreditAkuntansi.unity
+    guid: d9b245900c4fbdc4d8bc09720973e244
+  - enabled: 1
+    path: Assets/AR_Batch1/ARATM/Scenes/CreditATM.unity
+    guid: c37792a2408ecab469b0293a5091a95f
+  - enabled: 1
+    path: Assets/Scenes/Profile.unity
+    guid: 8c4c8983ab3cff045bc494c07185b049
+  - enabled: 1
+    path: Assets/AR_Batch1/ARScrum/Scenes/CreditARScrum.unity
+    guid: f3cbf2730c1bdbb4b983655cd0a3e9ec
+  - enabled: 1
+    path: Assets/AR_Batch1/ARAnthro/Kevin/Scene/CreditAnthro.unity
+    guid: 28ff15d789ac15e4db4801962764a091
+  - enabled: 1
+    path: Assets/AR_Batch2/AR The Account Think/SceneTheAccountThink/MainTheAccountThink.unity
+    guid: 773581132f9c543608d56b5f5e921186
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Machinist Jack/SceneMachinistJack/MainMachinistJack.unity
+    guid: 89d8ca35c214244068b13afb0c0dc535
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Diggies/SceneDiggies/MainDiggies.unity
+    guid: 2306964c0dfa149979ef1807e81a30af
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Diggies/SceneDiggies/CreditDiggies.unity
+    guid: 4f037b51f431443519ac84d10c8dd6c3
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Veza/SceneVeza/MainVeza.unity
+    guid: ed320ac4567c54d73a7964da210f798a
+  - enabled: 1
+    path: Assets/AR_Batch2/AR EA Cube Framework/SceneEACubeFramework/CreditEACubeFramework.unity
+    guid: 1124ee67d572c45d49f813df64e7f3db
+  - enabled: 1
+    path: Assets/AR_Batch2/AR The Account Think/SceneTheAccountThink/CreditTheAccountThink.unity
+    guid: ae669b18197384f138741c4218c89a53
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Veza/SceneVeza/CreditVeza.unity
+    guid: 0dbc7b3cef3d54e18a4e3c46fcaef2cd
+  - enabled: 1
+    path: Assets/AR_Batch2/AR EA Cube Framework/SceneEACubeFramework/MainEACubeFramework.unity
+    guid: 9f9126f8d460afe4fb8adc028b7fbae3
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Visual Merchandising/SceneVisualMerchandising/MainVisualMerchandising.unity
+    guid: 760e9c6c3a627454f8a1622e63995552
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Visual Merchandising/SceneVisualMerchandising/CreditVisualMerchandising.unity
+    guid: ae54d21abcbd24602809e10241e427bd
+  - enabled: 1
+    path: Assets/AR_Batch2/AR Machinist Jack/SceneMachinistJack/CreditMachinistJack.unity
+    guid: 392675b97eb2b428d899cbbd9fd8a6aa
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Krijoni Prog/SceneKrijoniProg/MainKrijoniProg.unity
+    guid: b346a910136704781a9518dd618e71bc
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Krijoni Prog/SceneKrijoniProg/CreditKrijoniProg.unity
+    guid: e7dba08cc288f7d49bccc08626a8218d
+  - enabled: 1
+    path: Assets/AR_Batch3/AR I Do Dbase/SceneIDoDbase/MainIDoDbase.unity
+    guid: aa315b628741f47b78e8fa794a9df171
+  - enabled: 1
+    path: Assets/AR_Batch3/AR I Do Dbase/SceneIDoDbase/CreditIDoDbase.unity
+    guid: a4a4a9c09edc141aebc1efe027288c88
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Sammeth/SceneSammeth/MainSammeth.unity
+    guid: ed9ae425860884bcabc8918bf2a88ba1
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Sammeth/SceneSammeth/CreditSammeth.unity
+    guid: a1c0ba4cdd2ea4014a7e5aba5b574fc3
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Incoterms/SceneIncoterms/MainIncoterms.unity
+    guid: 1ee056572dddd4511b18d9df2f269943
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Incoterms/SceneIncoterms/CreditIncoterms.unity
+    guid: 772e534da44a14fc49699796ec79980a
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Escape Room/SceneEscapeRoom/MainEscapeRoom.unity
+    guid: 9fd353fb25ab642a4bea32965e593410
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Escape Room/SceneEscapeRoom/CreditEscapeRoom.unity
+    guid: 194a94571a10d7942abd138d25b70dbf
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Normal Balance/ScenesNormalBalance/MainNormalBalance.unity
+    guid: 49e7e512224a8224cad448de927934a9
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Normal Balance/ScenesNormalBalance/CreditNormalBalance.unity
+    guid: f4806b8fb8a014385b7f0a6588af9c89
+  - enabled: 1
+    path: Assets/AR_Batch3/AR MH Equipment/SceneMHEquipment/MainMHEquipment.unity
+    guid: 0255093b3a76f420eaa66015ccfbe872
+  - enabled: 1
+    path: Assets/AR_Batch3/AR MH Equipment/SceneMHEquipment/CreditMHEquipment.unity
+    guid: 6cbb26676f3e17244a05cc39829a9207
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Si Logi/SceneSiLogi/MainSiLogi.unity
+    guid: a2537b9bff43747ae8e3e38bee56a465
+  - enabled: 1
+    path: Assets/AR_Batch3/AR Si Logi/SceneSiLogi/CreditSiLogi.unity
+    guid: ad22a1847140d4382a908fc08b0a5e0b
+  - enabled: 1
+    path: Assets/AR_Batch3/AR UX Vision/SceneUXVision/MainUXVision.unity
+    guid: bd33d9b171b55427494eed64829bffdc
+  - enabled: 1
+    path: Assets/AR_Batch3/AR UX Vision/SceneUXVision/CreditUXVision.unity
+    guid: d87717835d40ad542b922b5e8b255b2f
+  - enabled: 1
+    path: Assets/AR_Batch3/Andum/ScenesAndum/VideoPlayerDemo.unity
+    guid: 2325dcebd4ba97f4f84c92d037e8aea7
+  - enabled: 1
+    path: Assets/AR_Batch3/Andum/ScenesAndum/AR Assembly/MainAssembly.unity
+    guid: 6bdce89659816455b9f906fc62d19910
+  - enabled: 1
+    path: Assets/AR_Batch3/Andum/ScenesAndum/AR Assembly/CreditAssembly.unity
+    guid: 4bc8b78266635874f874ff2289dd0e7f
+  - enabled: 1
+    path: Assets/AR_Batch3/Andum/ScenesAndum/AR Room Design/MainRoomDesign.unity
+    guid: 564deb50369315645acc25eb2313e504
+  - enabled: 1
+    path: Assets/AR_Batch3/Andum/ScenesAndum/AR Room Design/CreditRoomDesign.unity
+    guid: 69e4eba3c1f3aa348b2bcffe101287bb
+  - enabled: 1
+    path: Assets/AR_Batch3/Andum/ScenesAndum/AR Beer Game/CreditBeerGame.unity
+    guid: 8d17510fb4bce3649b9ffa467d490fc7
+  - enabled: 1
+    path: Assets/AR_Batch3/Andum/ScenesAndum/AR Beer Game/MainBeerGame.unity
+    guid: b8f5b5a2348bbe745a3d92e63d0a9b1e
+  - enabled: 1
+    path: Assets/AR_Batch3/AR AccounThink Ratio/ScenesAccounThinkRatio/MainAccounThinkRatio.unity
+    guid: fa53b763406c9c24ea7366a0e4d1adf0
+  - enabled: 1
+    path: Assets/AR_Batch3/AR AccounThink Ratio/ScenesAccounThinkRatio/CreditAccounThinkRatio.unity
+    guid: 6e643a292f284e14c924600b97722a81
+  - enabled: 1
+    path: Assets/AR_Batch3/AR InSafe/ScenesInSafe/MainInSafe.unity
+    guid: fa25d7c1e4a314544a428ff654cb7d5e
+  - enabled: 1
+    path: Assets/AR_Batch3/AR InSafe/ScenesInSafe/CreditInSafe.unity
+    guid: af8aa459288cd024ba64c02056c74660
+  - enabled: 1
+    path: Assets/AR_Batch4/AR Segar/ScenesSegar/MainSegar.unity
+    guid: 1ce837f74bb4b4d03962c23b3b5690a9
+  - enabled: 1
+    path: Assets/AR_Batch4/AR Segar/ScenesSegar/CreditSegar.unity
+    guid: ac4e24681ab15cb4ab1112d60460481a
+  - enabled: 1
+    path: Assets/AR_Batch4/AR CostTrack/ScenesCostTrack/MainCostTrack.unity
+    guid: bcbbbcc3a4b76f34093dbb34131d74b2
+  - enabled: 1
+    path: Assets/AR_Batch4/AR CostTrack/ScenesCostTrack/CreditCostTrack.unity
+    guid: 09c93f0b3c4068c4dbbad718f2f4b7d3
+  - enabled: 1
+    path: Assets/AR_Batch4/AR Homescape/ScenesHomescape/MainHomescape.unity
+    guid: 68fe7e32df2b41948942e303ff6c7c7c
+  - enabled: 1
+    path: Assets/AR_Batch4/AR Homescape/ScenesHomescape/CreditHomescape.unity
+    guid: 7f37b9d75a922de4ab8329f06d8e48ce
+  - enabled: 1
+    path: Assets/AR_Batch4/AR The Big/ScenesTheBig/MainTheBig.unity
+    guid: 4e2f5be10bb208141ab4b7408f88934f
+  - enabled: 1
+    path: Assets/AR_Batch4/AR The Big/ScenesTheBig/CreditTheBig.unity
+    guid: 11ca7429830ee4e47a1710b387fcf263
+  - enabled: 1
+    path: Assets/AR_Batch4/AR Infactory/ScenesInfactory/MainInfactory.unity
+    guid: 3be0263ac52bef14ba2976f62867354f
+  - enabled: 1
+    path: Assets/AR_Batch4/AR Infactory/ScenesInfactory/CreditInfactory.unity
+    guid: a3d81a6c3a0023b48aab7141089b0eea
+  - enabled: 1
+    path: Assets/AR_Batch5/AR DailyTax/ScenesDailyTax/MainDailyTax.unity
+    guid: 4a9beb03c33a512439d32fbe6f3dab17
+  - enabled: 1
+    path: Assets/AR_Batch5/AR DailyTax/ScenesDailyTax/CreditDailyTax.unity
+    guid: c69026d6b3e219f42b147374bd0c035d
+  - enabled: 1
+    path: Assets/AR_Batch5/AR TSP/ScenesTSP/MainTSP.unity
+    guid: ece4dc6fbdb9cfb40bf0118e6579e8ae
+  - enabled: 1
+    path: Assets/AR_Batch5/AR TSP/ScenesTSP/CreditTSP.unity
+    guid: 4d40ba058afa7b64b93a2ea74e3c736c
+  - enabled: 1
+    path: Assets/AR_Batch5/AR ProdInsight/ScenesProdInsight/MainProdInsight.unity
+    guid: 058937db4321ad642bd516ba6d2fd653
+  - enabled: 1
+    path: Assets/AR_Batch5/AR ProdInsight/ScenesProdInsight/CreditProdInsight.unity
+    guid: 625779c3f7acab44f94de5dc06f8cb8a
+  - enabled: 1
+    path: Assets/AR_Batch5/AR Vendor Selection/ScenesVendorSelection/MainVendorSelection.unity
+    guid: a42852e888b4dd84fb7358f8d1580567
+  - enabled: 1
+    path: Assets/AR_Batch5/AR Vendor Selection/ScenesVendorSelection/CreditVendorSelection.unity
+    guid: 3aebc077197fe604ebebffdff152a164
+  - enabled: 1
+    path: Assets/AR_Batch5/AR SmartFactory/ScenesSmartFactory/MainSmartFactory.unity
+    guid: 1894472dbc7d682498aa756f3417e1d8
+  - enabled: 1
+    path: Assets/AR_Batch5/AR SmartFactory/ScenesSmartFactory/CreditSmartFactory.unity
+    guid: ab7c42a01f4ecef4786abca05552b697
+  - enabled: 1
+    path: Assets/AR_Batch5/AR Lathe Machine/ScenesLatheMachine/CreditLatheMachine.unity
+    guid: b443a259fdb3a314ea81d35bf24c553f
+  - enabled: 1
+    path: Assets/AR_Batch5/AR Lathe Machine/ScenesLatheMachine/MainLatheMachine.unity
+    guid: 9ca1ee5792b0f394b8a4927ae8809be3
+  - enabled: 1
+    path: Assets/AR_Batch6/AR Human Brain/ScenesARHumanBrain/MainARHumanBrain.unity
+    guid: 74052efa6d8b5194f938a30c88a5e8a7
+  - enabled: 1
+    path: Assets/AR_Batch6/AR Human Brain/ScenesARHumanBrain/MainARHumanBrain_FaceTracking.unity
+    guid: 2c3262ee480f0af478d3057383683fe7
+  - enabled: 1
+    path: Assets/AR_Batch6/AR Human Brain/ScenesARHumanBrain/MainARHumanBrain_ImageTracking.unity
+    guid: a7468ce727132274f8923ed857b28814
+  - enabled: 1
+    path: Assets/AR_Batch6/AR Human Brain/ScenesARHumanBrain/CreditARHumanBrain.unity
+    guid: 00ee3fabb982d8a49834e3ef2b4ef002
+  - enabled: 1
+    path: Assets/AR_Batch6/AR Anthropometry/ScenesARAnthropometry/MainARAnthropometry.unity
+    guid: b1bf03109137c914a83f1d410a231281
+  - enabled: 1
+    path: Assets/AR_Batch6/AR Anthropometry/ScenesARAnthropometry/ImageTrackingARAnthropometry.unity
+    guid: 63a42458cb672cc4bb61e0ff5c4d11b7
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 6fcd9289f95b146c3bcb88fa614d581f,
+      type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 5d74f54bda0c045408a3359623619906,
+      type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: ad2606b8dc41e4244a9c8fc422404f64,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: da0fcde6ad6f13c4ebd362b9bf436231,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 81c009ff6262724498a923b2652e0526,
+      type: 2}
+  m_UseUCBPForAssetBundles: 0
